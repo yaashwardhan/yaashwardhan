@@ -3,8 +3,8 @@
 <a href="https://yaashwardhan.medium.com">
   <img align="left" alt="Yashwardhan Deshmukh | Medium" width="90px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZt4_CuruH5U07IyMBTZwSNAKmevI7efHdVw&usqp=CAU" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://open.spotify.com/playlist/37i9dQZF1DWV7EzJMK2FUI?si=y57ey0EVS6WPqnPq8i5Erw">
+  <img align="left" alt="Yashwardhan's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <a href="https://www.instagram.com/yaashwardhan/">
   <img align="left" alt="Yashwardhan's Instagram" width="22px" src="https://i.ibb.co/Qrsms55/600px-Instagram-logo-2016-svg.png" alt="600px-Instagram-logo-2016-svg" />
