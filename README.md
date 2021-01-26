@@ -28,7 +28,7 @@ Hello, I'm Yashwardhan!, a self-taught Flutter Developer 📱.
 - 📚 Writer and an avid reader
 - 🌻 Social Service, Environmentalist 🌱
 - 🎸 Jamming my Guitar
-- 🥋 Gōjū-ryū Athlete 8+ years
+- 🥋 Gōjū-ryū Athlete
 - 🥖 Italian breads are ❤️
 - 📫 Contact: [yaashwardhan@gmail.com](yaashwardhan@gmail.com)
 
