@@ -12,7 +12,6 @@
 <a href="https://www.linkedin.com/in/yaashwardhan/">
   <img align="left" alt="Yashwardhan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![](https://komarev.com/ghpvc/?username=yaashwardhan)
 <br />
 <br />
 
