@@ -9,7 +9,7 @@
 <a href="https://www.instagram.com/yaashwardhan/">
   <img align="left" alt="Yashwardhan's Instagram" width="22px" src="https://i.ibb.co/Qrsms55/600px-Instagram-logo-2016-svg.png" alt="600px-Instagram-logo-2016-svg" />
 </a>
-<a href="https://www.linkedin.com/yaashwardhan/">
+<a href="https://www.linkedin.com/in/yaashwardhan/">
   <img align="left" alt="Yashwardhan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
@@ -43,4 +43,4 @@ Hello, I'm [Yashwardhan!](https://yaashwardhan.medium.com/), a self-taught Flutt
 - ###### MySQL, Git, Vim, Atom & Sketch: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> + <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> + <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code> + <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sketch/sketch.png"></code>
 
 
-Would be great if you read my articles [here](yaashwardhan.medium.com) !
+Would be great if you read my articles [here](https://yaashwardhan.medium.com/) !
