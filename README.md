@@ -16,7 +16,7 @@
 <br />
 
 
-Hello, I'm [Yashwardhan!](https://yaashwardhan.medium.com/), a self-taught Flutter Developer 📱.
+Hello, I'm Yashwardhan!, a self-taught Flutter Developer 📱.
 
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yaashwardhan&show_icons=true&theme=gotham" />
 
