@@ -24,6 +24,7 @@ Hello, I'm Yashwardhan!, a self-taught Flutter Developer 📱.
 
 #### **About Me:**
 
+- 🚀 Aeronautics & Astrophysics enthusiast
 - 💻 Machine Learning, Deep Learning enthusiast
 - 📚 Writer and an avid reader
 - 🌻 Social Service, Environmentalist 🌱
