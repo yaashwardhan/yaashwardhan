@@ -30,7 +30,7 @@ Hello, I'm Yashwardhan!, a self-taught Flutter Developer 📱.
 - 🌻 Social Service, Environmentalist 🌱
 - 🎸 Jamming my Guitar
 - 🥋 Gōjū-ryū Athlete
-- 🥖 Italian breads are ❤️
+- 🥖 Italian breads ❤️
 - 📫 Website: [yaashwardhan.me](http://yaashwardhan.me/)
 
 #### **Programming Languages, Libraries & Tools:**  
