@@ -1,5 +1,4 @@
 ## Bonjour ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=yaashwardhan&color=blue"/>
 <a href="https://yaashwardhan.medium.com">
   <img align="left" alt="Yashwardhan Deshmukh | Medium" width="90px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZt4_CuruH5U07IyMBTZwSNAKmevI7efHdVw&usqp=CAU" />
 </a>
@@ -12,6 +11,7 @@
 <a href="https://www.linkedin.com/in/yaashwardhan/">
   <img align="left" alt="Yashwardhan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=yaashwardhan&color=blue"/>
 <br />
 <br />
 
